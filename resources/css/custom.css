@@ -1,0 +1,10 @@
+
+.singleCol {
+    max-width: 750 px;
+    margin: 0 auto;
+
+}
+.social-media-icons-white a {
+    color:rgb(34, 32, 32);
+    font-size: 5rem;
+}
